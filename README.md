@@ -1,16 +1,9 @@
 # planeta_x
 
-A new Flutter application.
+Descubra qual é seu peso em outros planetas.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esse é um projeto para o estudo do framework flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/alandvgarcia/planeta_x_flutter/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-01-20%20at%2021.57.26.png)
